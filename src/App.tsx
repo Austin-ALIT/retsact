@@ -77,11 +77,19 @@ export default App;
 
 // Create a new GitHub repository for your assignment and commit your code.
 /* GitHub commands entered: 
-
-
+  $ cd projects.old/ts-activity-3/retsact
+    #Checked if the master branch was named master, which it was.
+  $ git add .
+  $ git commit -m "First commmit representing local changes."
+  $ git tag v0.1
+    # Created the origin repository on GitHub 
+  $ git remote add origin https://github.com/Austin-ALIT/retsact.git
+    # for safety and to get into the habbit, I run fetch before push. 
+  $ git fetch 
+  $ git push origin master
 */
 // Submit the repository link containing the assignment code.
-
+// https://github.com/Austin-ALIT/retsact
 
 // ============================ Evaluation Criteria: =========================================
 
